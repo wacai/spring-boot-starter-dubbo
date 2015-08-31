@@ -23,7 +23,7 @@ Dubbo项目的SpringBoot自动配置module项目， 会提供一个CommandLineRu
         <dependency>
             <groupId>com.wacai</groupId>
             <artifactId>spring-boot-starter-dubbo</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
 ~~~~~~~
 

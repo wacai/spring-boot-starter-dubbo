@@ -8,7 +8,7 @@
     </parent>
     <groupId>com.wacai</groupId>
     <artifactId>spring-boot-starter-dubbo</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>spring-boot-starter-dubbo</name>
