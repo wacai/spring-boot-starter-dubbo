@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starters</artifactId>
+        <version>1.2.5.RELEASE</version>
+    </parent>
+    <groupId>com.wacai</groupId>
+    <artifactId>spring-boot-starter-dubbo</artifactId>
+    <version>1.0.2</version>
+    <packaging>jar</packaging>
+
+    <name>spring-boot-starter-dubbo</name>
+    <url>https://github.com/wacai/spring-boot-starter-dubbo</url>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>yunshi</id>
+            <name>陨石, aka.扶墙老师</name>
+            <email>yunshi@wacai.com</email>
+            <url>http://afoo.me/whoami.html</url>
+            <organization>wacai.com</organization>
+            <organizationUrl>http://www.wacai.com/</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/wacai/spring-boot-starter-dubbo</url>
+        <connection>git@github.com:wacai/spring-boot-starter-dubbo.git</connection>
+    </scm>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.wacai</groupId>
+            <artifactId>goodies</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
+</project>
