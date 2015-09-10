@@ -1,6 +1,6 @@
 # 项目介绍
 
-Dubbo项目的SpringBoot自动配置module项目， 会提供一个CommandLineRunner来帮助latch当前dubbo服务端进程的退出。
+Dubbo项目的SpringBoot自动配置module项目， 会提供一个CommandLineRunner来帮助launch当前dubbo服务端进程的退出。
 
 # 使用说明
 
